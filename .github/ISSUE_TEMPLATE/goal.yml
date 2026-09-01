@@ -1,0 +1,29 @@
+name: Goal
+description: Set a goal
+title: "[Goal]: "
+labels: ["goal"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Goal
+      description: What is the goal?
+      placeholder: "I will prepare a notebook demo (like a figure) of a concept from class and one formative assessment question each week. I'll present this in a 5-minute demo each Saturday when I talk with my parents and record how it is received and how they answer the question in my journal."
+    validations:
+      required: false
+  - type: textarea
+    id: why
+    attributes:
+      label: Why?
+      description: Why is this goal important to you?
+      placeholder: I care about presentation and communication skills, and this creates accountability.
+  - type: textarea
+    id: criteria
+    attributes:
+      label: Criteria
+      description: What criteria will you use? Give examples of exemplary, satisfactory, and insufficient completion of this goal.
+  - type: textarea
+    id: timeline
+    attributes:
+      label: Timeline
+      description: When will you apply that criteria? This can be broken into sub-goals or sub-tasks.
