@@ -27,3 +27,8 @@ We workshopped a question to ask in Zulip.
 I noticed that ... methods are used in ... application and found the ... project on GitHub. I'd like to explore how they assess convergence/accuracy/efficiency.  
 
 Feel free to include additional files and add links and images using [GitHub Flavored Markdown](https://github.github.com/gfm/).
+
+
+## Fri Sep 4 2024 - First Journal entry 
+
+I started off this week very lost and confused. I tried to advocate for myself and wasn't afraid to ask probing or clarifying questions in class to help ensure I was able to follow along and comprehend what was being covered each day. I really wanted to make sure I fully understood the assignments and I took the time to break down each problem and walk through them with claude to ask deeper conceptual questions and had it ask me follow up questions in return. This way I was able to dive even further into the class material and confirm that I was actually learning rather than simply regurgitating information. 
